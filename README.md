@@ -54,8 +54,7 @@ The GUI supports:
 Users can define target orbital elements and the tool computes required ΔV to achieve them.  
 Example: Achieving an inclination change with calculated ΔV.  
 
-<!-- Add<img width="1366" height="728" alt="g7" src="https://github.com/user-attachments/assets/5313a324-a74f-4eba-bd60-5bdb6ad35bd7" />
- figure here: Achieving mission goal with inclination change example -->  
+<img width="1366" height="728" alt="g7" src="https://github.com/user-attachments/assets/0b5f3c67-3c7f-4f6e-95d2-b0c68fd2a474" />
 
 ---
 
