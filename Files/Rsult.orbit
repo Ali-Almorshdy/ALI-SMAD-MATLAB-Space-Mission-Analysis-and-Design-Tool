@@ -1,0 +1,42 @@
+******************************************************Orbital Rsults*************************************************************** 
+
+2-State Vectot:
+__________________________________________
+ 1-X= 7985.807420 km 
+ 2-Y= 110.847102 km  
+ 3-Z= 294.134420 km 
+ 4-VX= -0.253196 km/S 
+ 5-VY= 4.996603 km/S 
+ 6-VZ= 4.989461 km/S 
+
+1-Keplerian Elements:
+__________________________________________
+ 1-Semi Majoraxis = 7999.977383 km 
+ 2-eccentricity = 0.000998  
+ 3-Inclination = 44.999920° 
+ 4-Rightessention = 358.684637° 
+ 5-Argument Of Perigee = 3.535584° 
+ 6-Mean Anomaly = -0.550987° 
+ 7-Eccentric Anomaly = -0.551538° 
+ 8-True Anomaly = 359.447911° 
+
+2-Spherical State :
+__________________________________________
+RMAG = 7991.991135 km 
+Right Ascension = 0.795244 deg 
+Declination = 2.109170 km^2/S^2 
+VMAG = 7.065753 KM/S 
+Vel Right Ascension = 92.900902 deg 
+Vel Declination  = 44.922284 deg 
+
+2-Other Orbit Data:
+__________________________________________
+Semi minor Axis = 7999.973396 km 
+specific angular momentum = 56469.437810 KM^2/S 
+Orbit Energy = -24.912645 km^2/S^2 
+Mean motion = 0.000882 RAD/S 
+Periapsis = 7991.990764 km 
+VelPeriapsis  = 7.065754 km/S 
+Apoapsis = 8007.964001 km 
+VelApoapsis = 7.051660 km/S 
+Orbit Period = 7121.044606 S 
