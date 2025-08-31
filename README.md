@@ -66,14 +66,10 @@ Ground stations can be added with latitude, longitude, and altitude inputs.
 The software computes satellite pass times and access duration.  
 
 <!-- Add figure here: Adding ground stations and example pass time calculation -->  
-![Uploading s8.PNG…]()
+<img width="1366" height="721" alt="s8" src="https://github.com/user-attachments/assets/dce1c2a8-77a9-41c5-8da0-c57208da4e9c" />
 
 ---
 
-## 📖 Reference  
-- [AGI GMAT](https://gmatcentral.org/) – General Mission Analysis Tool  
-- [AGI STK](https://www.agi.com/products/stk) – Systems Tool Kit  
-- [VSCMG Reference – Schaub](https://hanspeterschaub.info/PapersPrivate/vscmg.pdf)  
 
 ---
 
