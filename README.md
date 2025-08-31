@@ -34,10 +34,7 @@ The software provides multiple result plots and analysis options:
 ## 🔄 STK Integration  
 ALI-SMAD includes the ability to export and compare results with AGI STK for validation.  
 
-<!-- Add figure h<img width="1366" height="730" alt="g3" src="https://github.com/user-attachments/assets/fd712fde-34a8-43dc-bcf4-012c122a2c12" />
-ere: Opening STK from the application and SMA variation comparison -->  
 
----
 
 ## 🛰️ Maneuver Planning  
 The GUI supports:  
